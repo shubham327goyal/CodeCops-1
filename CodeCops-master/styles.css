@@ -561,3 +561,504 @@ hr{
     
 }
 
+/*About US*/
+
+.abus{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-left: 90px;
+    
+    
+}
+
+.first {
+    position: absolute;
+    top: 160px;
+    left: 15px;
+    
+}
+
+.second {
+    position: absolute;
+    top: 300px;
+    left: 15px;
+    
+}
+
+
+
+.fonts{
+    font-size: 2.8em;
+    font-family: 'Red Rose', cursive;
+    color: whitesmoke;
+    text-shadow: 1px 1px lightgray;
+    margin-left: 730px;
+    margin-top: -100px;
+
+}
+
+
+.fontf{
+    font-size: 1.8em;
+    font-family: 'Red Rose', cursive;
+    color: whitesmoke;
+    text-shadow: 1px 1px lightgray;
+    margin-left: 730px;
+    margin-top: -20px;
+
+    opacity: 65%;
+
+}
+
+
+
+.button{
+    position: absolute;
+    top: 490px;
+    left: 820px;
+}
+
+@media(max-width: 1185px){
+	.button{
+		position: absolute;
+        top: 550px;
+        left: 820px;
+	}
+}
+
+@media(max-width : 1155px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: 10px;
+    }
+
+    .fonts{
+        font-size: 2.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 610px;
+        margin-top: -100px;
+    
+    }
+
+    .fontf{
+        font-size: 1.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 610px;
+        margin-top: -20px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 510px;
+        left: 710px;
+    }
+    
+}
+
+@media(max-width : 1065px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: -20px;
+    }
+
+    .fonts{
+        font-size: 2.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 610px;
+        margin-top: -100px;
+    
+    }
+
+    .fontf{
+        font-size: 1.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 610px;
+        margin-top: -20px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 560px;
+        left: 690px;
+    }
+    
+}
+
+
+@media(max-width : 1035px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: -50px;
+    }
+
+    .fonts{
+        font-size: 2.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 550px;
+        margin-top: -100px;
+    
+    }
+
+    .fontf{
+        font-size: 1.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 550px;
+        margin-top: -20px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 520px;
+        left: 650px;
+    }
+    
+}
+
+@media(max-width : 1003px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: -80px;
+    }
+
+    .fonts{
+        font-size: 2.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 510px;
+        margin-top: -100px;
+    
+    }
+
+    .fontf{
+        font-size: 1.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 510px;
+        margin-top: -20px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 520px;
+        left: 615px;
+    }
+    
+}
+
+@media(max-width : 964px){
+    
+    .button{
+        position: absolute;
+        top: 550px;
+        left: 610px;
+    }
+    
+}
+
+@media(max-width : 935px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: -90px;
+        margin-top: -50px;
+    }
+
+    .fonts{
+        font-size: 2.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 480px;
+        margin-top: -150px;
+    
+    }
+
+    .fontf{
+        font-size: 1.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 480px;
+        margin-top: -20px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 510px;
+        left: 580px;
+    }
+    
+}
+
+@media(max-width : 905px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: -90px;
+        margin-top: -50px;
+    }
+
+    .fonts{
+        font-size: 2.6em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 480px;
+        margin-top: -150px;
+    
+    }
+
+    .fontf{
+        font-size: 1.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 480px;
+        margin-top: -20px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 500px;
+        left: 570px;
+    }
+    
+}
+
+@media(max-width : 876px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: -100px;
+        margin-top: -50px;
+    }
+
+    .fonts{
+        font-size: 2.6em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 460px;
+        margin-top: -150px;
+    
+    }
+
+    .fontf{
+        font-size: 1.8em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 460px;
+        margin-top: -20px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 490px;
+        left: 550px;
+    }
+    
+}
+
+@media(max-width : 856px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: -100px;
+        margin-top: -50px;
+    }
+
+    .fonts{
+        font-size: 2.3em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 460px;
+        margin-top: -150px;
+    
+    }
+
+    .fontf{
+        font-size: 1.4em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 460px;
+        margin-top: -20px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 460px;
+        left: 510px;
+    }
+    
+}
+
+@media(max-width : 815px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: -110px;
+        margin-top: -50px;
+    }
+
+    .fonts{
+        font-size: 2.1em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 430px;
+        margin-top: -150px;
+    
+    }
+
+    .fontf{
+        font-size: 1.2em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 430px;
+        margin-top: -20px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 470px;
+        left: 460px;
+    }
+    
+}
+
+@media(max-width : 726px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: -120px;
+        margin-top: -50px;
+    }
+
+    .fonts{
+        font-size: 2.1em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 410px;
+        margin-top: -120px;
+    
+    }
+
+    .fontf{
+        font-size: 1.2em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 410px;
+        margin-top: -10px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 510px;
+        left: 450px;
+    }
+    
+}
+
+@media(max-width : 707px){
+    .abus{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        margin-left: -120px;
+        margin-top: -50px;
+    }
+
+    .fonts{
+        font-size: 2.0em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 410px;
+        margin-top: -120px;
+    
+    }
+
+    .fontf{
+        font-size: 1.0em;
+        font-family: 'Red Rose', cursive;
+        color: whitesmoke;
+        text-shadow: 1px 1px lightgray;
+        margin-left: 410px;
+        margin-top: -10px;
+    
+        opacity: 65%;
+    
+    }
+
+    .button{
+        position: absolute;
+        top: 555px;
+        left: 425px;
+    }
+    
+}
